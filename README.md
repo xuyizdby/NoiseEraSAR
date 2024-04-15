@@ -2,10 +2,10 @@
 
 # Skeleton-Based Human Action Recognition with Noisy Labels
 
-Yi Xu, Kunyu Peng, Di Wen, Ruiping Liu, Junwei Zheng, Yufan Chen, Jiaming Zhang, Alina Roitberg, Kailun Yang, Rainer Stiefelhagen
+Yi Xu, Kunyu Peng, Di Wen, Ruiping Liu, Junwei Zheng, Yufan Chen, Jiaming Zhang, Alina Roitberg, Kailun Yang, Rainer Stiefelhagen `:blush:` 
 <p align="center">
   <p align="center">
-    Our Paper `:last_quarter_moon_with_face:` :  <a href="https://arxiv.org/abs/2403.09975">Paper</a>
+    Our Paper :  <a href="https://arxiv.org/abs/2403.09975">Paper</a>
   </p>
 
 </p>
