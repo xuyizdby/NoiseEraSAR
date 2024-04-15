@@ -29,7 +29,7 @@ Understanding human actions from body poses is critical for assistive robots sha
 ### Methodology 
 <p align="center">
   <a>
-    <img src="image/structure.png" alt="Structure" width="1000" height="450">
+    <img src="image/structure.png" alt="Structure" width="1000" height="400">
   </a>
 </p>
 
